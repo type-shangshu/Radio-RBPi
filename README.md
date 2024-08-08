@@ -7,4 +7,4 @@ $ modprobe i2c_bcm2835
 $ python smbus.py 
 ```
 # Result
-![](./1011.jpg)
+![](https://github.com/type-shangshu/Radio-RBPi/blob/main/1011.jpg)
