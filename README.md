@@ -7,4 +7,4 @@ $ modprobe i2c_bcm2835
 $ python smbus.py 
 ```
 # Result
-![](1011.jpg)
+![](./1011.jpg)
