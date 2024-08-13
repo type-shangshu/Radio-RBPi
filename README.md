@@ -1,3 +1,5 @@
+# About
+This is my course project for *Training on Embedded Systems*.
 # Requirements
 Raspberry Pi; TEA5767; Digit Tube
 # Usage
